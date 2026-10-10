@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm devsecops cybersecurity engineer and i have some experience with AI <br>I'm hard worker with a smart steps <br>I'm good for learning new concepts <br>I'm flexible in a different projects  
+I'm passionate about building secure, automated, and reliable systems, with experience in DevSecOps, cybersecurity, and AI integration.
+
+💡 My mindset:
+
+🚀 Hard-working and focused on smart, structured solutions.
+
+📚 Fast learner who enjoys exploring new technologies.
+
+🔄 Adaptable and flexible across different projects.
+
+🔐 Committed to continuous learning and improving security.
 
 
 ## 🌐 Socials:
